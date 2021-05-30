@@ -134,7 +134,7 @@ footer {
     ul.nav-bar.active{
         flex-flow: column;
         position: absolute;
-        min-height: 55vh;
+        min-height: 100vh;
         background: black;
         left: 0;
         right: 0;
